@@ -1,0 +1,9 @@
+Amma's Tiffin Corner - Menu Prices
+
+Canonical prices synchronized with the backend:
+- Idly (plate of 4): ₹40
+- Poori (plate of 4): ₹50
+- Gari (plate of 3): ₹35
+- Mysore Bajji (plate): ₹30
+
+Keep the frontend menu and api/orders.js prices synchronized if prices are changed in the future.
